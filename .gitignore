@@ -43,3 +43,7 @@ crashlytics-build.properties
 *.apk
 *.aab
 *.unitypackage
+
+# Builds
+/Game Jam- Randy (Web)/
+*.zip
